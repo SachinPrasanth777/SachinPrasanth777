@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Prasanth</h1>
 <h3 align="center">A Backend Developer with a side passion for Machine Learning.</h3>
 
-- 🔭 I’m currently working on:  [Pinnochio](https://github.com/SachinPrasanth777/Pinnochio/tree/main)
+- 🔭 I’m currently working on:  [Mozobot](https://github.com/srm-kzilla/mozobot)
 
 - 🌱 I’m currently learning:  **Tensorflow,PyTorch**
 
