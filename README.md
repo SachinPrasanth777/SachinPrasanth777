@@ -9,6 +9,7 @@
 
 ![](https://gitmystat.vercel.app/top?theme=vsdark&username=SachinPrasanth777&layout=default)<br/>
 
+![](https://gitmystat.vercel.app//top?username=SachinPrasanth777&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SachinPrasanth777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
